@@ -1,5 +1,19 @@
 # FaceTypeDetector
 Face Type Detector Using **Active Shape Models with Stasm**
+
+Active Shape Model
+ * http://www.milbo.users.sonic.net/stasm/
+ * https://libraries.io/pypi/PyStasm
+
+Machine Learning
+ * http://scikit-learn.org
+
+Installation
+
+    sudo apt-get install python-numpy
+    sudo apt-get install python-opencv
+    sudo pip install PyStasm
+    sudo pip install -U scikit-learn
 * * *
 ##README
 Training data and model is **not included** because this is for proprietary application.
