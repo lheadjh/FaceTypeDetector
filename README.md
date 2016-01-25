@@ -47,7 +47,7 @@ If you have some training data, you can make model & test what your face type is
     
  + **/train_tag**
    + Include tag files, one to one correspondence between image and tag file.
-   + Each tag files is include face type
+   + Each tag file is include face type
    + Ex) tr_0001.txt, tr_0022.txt, ..., tr_xxxx.txt
   
      > See /train_tag/train0001.txt
